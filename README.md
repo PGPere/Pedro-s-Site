@@ -2,4 +2,4 @@
 
 ### My live URL:
 
-[Netlify Status](https://app.netlify.com/sites/pedrogperez-portfolio/deploys)
+[Pedro's URL](https://pedrogperez-portfolio.netlify.app/)
