@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+### My live URL:
+
+[Netlify Status](https://app.netlify.com/sites/pedrogperez-portfolio/deploys)
