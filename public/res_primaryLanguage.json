@@ -17,6 +17,45 @@
         "images": [
           "images/portfolio/Odyssey/background-image.jpg",
           "images/portfolio/Odyssey/cancun.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "New Project Coming Soon",
+        "startDate": "2022",
+        "description": "The new project will display the advance use of React and APIs",
+        "images": [
+          "images/portfolio/NewProject/code_picture.jpg",
+          "images/portfolio/NewProject/rice-plantation.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
         ]
       },
       {
