@@ -23,8 +23,8 @@ class Footer extends Component {
               <div 
                 onClick={() =>
                   this.props.applyPickedLanguage(
-                    window.$primaryLanguage,
-                    window.$secondaryLanguageIconId
+                    window.$primaryLanguage
+                    // window.$secondaryLanguageIconId
                   )
                 }
                 style={{ display: "inline" }}
