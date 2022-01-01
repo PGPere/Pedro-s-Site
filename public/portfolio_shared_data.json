@@ -20,27 +20,33 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain"
+          "class": "devicon-html5-plain",
+          "level": "95"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain"
+          "class": "devicon-css3-plain",
+          "level": "95"
         },
         {
           "name": "TypeScript",
-          "class": "devicon-typescript-plain"
+          "class": "devicon-typescript-plain",
+          "level": "95"
         },
         {
           "name": "JavaScript",
-          "class": "devicon-javascript-plain"
+          "class": "devicon-javascript-plain",
+          "level": "95"
         },
         {
           "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain"
+          "class": "devicon-bootstrap-plain",
+          "level": "95"
         },
         {
           "name": "MySql",
-          "class": "devicon-mysql-plain"
+          "class": "devicon-mysql-plain",
+          "level": "95"
         }
       ]
     }
