@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "New Project Coming Soon",
+        "title": "New Project #1 Coming Soon",
         "startDate": "2022",
         "description": "The new project will display the advance use of React and APIs",
         "images": [
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "title": "New Project Coming Soon",
+        "title": "New Project #2 Coming Soon",
         "startDate": "2022",
         "description": "The new project will display the advance use of React and APIs",
         "images": [
@@ -88,10 +88,11 @@
         "company": "Expedia",
         "title": "Senior Product Manager",
         "years": "6.2021 - present",
+        "mainTech": [
+          "JavaScript"
+        ],        
         "technologies": [
           "Python",
-          "JavaScript",
-          "SQL",
           "AWS Micro-Services",
           "Bootstrap"
         ]
@@ -102,6 +103,10 @@
         "years": "06.2017 - 06.2021",
         "mainTech": [
           "SQL"
+        ],
+        "technologies": [
+          "AWS Micro-Services",
+          "Bootstrap"
         ]
       }
     ]
