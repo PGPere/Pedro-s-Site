@@ -85,37 +85,24 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2021 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "Expedia",
+        "title": "Senior Product Manager",
+        "years": "6.2021 - present",
+
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Python",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SQL",
+          "AWS Micro-Services",
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Amazon",
+        "title": "Senior Finance Manager",
+        "years": "06.2017 - 06.2021",
         "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "SQL"
         ]
       }
     ]
